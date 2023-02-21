@@ -3,13 +3,13 @@ import { LanguageContext } from "./LanguageContext";
 
 const text = {
     en: {
-        lang: "Good Morning"
+        lang: "English"
     },
     it: {
-        lang: "Buongiorno",
+        lang: "Italiano",
     },
     or: {
-        lang: "Alagha"
+        lang: "Oron"
     }
 }
 
